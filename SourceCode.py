@@ -10,5 +10,12 @@ def feature1():
     c = a+b
     print(c)
 
+def feature2():
+    i = 10
+    j = 30
+    k = i*j
+    print(k)
+
 feature1()
+feature2()
 main()
